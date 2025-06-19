@@ -1,0 +1,17 @@
+# Node modules
+client/node_modules/
+server/node_modules/
+
+# Logs
+*.log
+
+# Environment variables
+client/.env
+server/.env
+
+# OS and editor files
+.DS_Store
+.vscode/
+
+# Expo
+client/.expo/
